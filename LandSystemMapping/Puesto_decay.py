@@ -1,3 +1,9 @@
+##################################################################
+######### here we tried to implement a decay function for the puesto buffers
+######### so that the impact of the puesto and the vegation declines with distance
+######### from puesto
+
+
 from FloppyToolZL.MasterFuncs import *
 gtiff_driver = gdal.GetDriverByName('GTiff')
 

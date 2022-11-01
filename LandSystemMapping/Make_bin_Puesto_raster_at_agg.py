@@ -1,3 +1,8 @@
+##############################################################
+###### rasterizes a puesto point layer to the resolution of
+###### an input raster (img)
+
+
 from FloppyToolZL.Funcis import *
 
 puesto_p = 'K:/Seafile/Uni_Life/CarbonPaper/GIS_Data/Objective_3/puestos/All_puestos_year_no0_fixedMPR_KK_LL.shp'

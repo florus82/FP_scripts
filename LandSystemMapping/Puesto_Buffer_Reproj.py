@@ -1,3 +1,6 @@
+#########################################################################
+############# Buffers puestos and rasterizes them into tile-system (Matthias's landcover product)
+
 from FloppyToolZL.MasterFuncs import *
 drvMemR = gdal.GetDriverByName('MEM')
 gtiff_driver = gdal.GetDriverByName('GTiff')
